@@ -14,21 +14,21 @@ An one-page site with photos of some countries.
 
 
 ## Author
-<div style=" display: flex; text-align: center; align-items: center;">
+<div sytle="display: inline-block;">
     <figure>
         <a href="https://github.com/bemibrando" target="_blank">
             <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102377919?v=4" width="100px" alt="Bianca Emi profile's photo"> <br />
-            <sub style="text-align: center; font-size: 1em;"><b>Bianca Emi</b></sub>
+            <sub style="text-align: center; font-size: 1.2em;"><b>Bianca Emi</b></sub>
         </a>
     </figure>
-    <div style="text-align: start;">
+    <p>Made with ♥ by Bianca Emi 👋 Get in touch!</p>
+    <div align="start">
         <a href="https://www.linkedin.com/in/bianca-emi/" target="_blank">
-            <img height="44rem" alt="linkedin" src="https://img.icons8.com/color/96/000000/linkedin.png" target="_blank"/>
-        </a><br/>
+            https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+        </a>   
         <a href="https://twitter.com/bemibrando" target="_blank">
-            <img height="44em" alt="twitter" src="https://img.icons8.com/color/96/000000/twitter-squared.png" target="_blank"/>
-        </a><br/>
-        <a href="mailto: bemi.brando@outlook.com">bemi.brando@outlook.com</a><br/>
-<p>Made with ♥ by Bianca Emi 👋 Get in touch!</p>
+            https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+        </a>   
+        <a href="mailto: bemi.brando@outlook.com">https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=bemi.brando@outlook.com&logoColor=white</a><br/>
     </div>
 </div>
