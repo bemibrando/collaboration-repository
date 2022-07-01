@@ -18,7 +18,7 @@ An one-page site with photos of some countries.
     <figure>
         <a href="https://github.com/bemibrando" target="_blank">
             <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/102377919?v=4" width="100px" alt="Bianca Emi profile's photo"> <br />
-            <sub style="text-align: center; font-size: 1.2em;"><b>Bianca Emi</b></sub>
+            <sub style="text-align: center; font-size: 1.4em;"><b>Bianca Emi</b></sub>
         </a>
     </figure>
     <p>Made with ♥ by Bianca Emi 👋 Get in touch!</p>
@@ -30,7 +30,7 @@ An one-page site with photos of some countries.
             <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
         </a>   
         <a href="mailto: bemi.brando@outlook.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=bemi.brando@outlook.com&logoColor=white">
+            <img src="https://img.shields.io/badge/bemi.brando@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
         </a><br/>
     </div>
 </div>
