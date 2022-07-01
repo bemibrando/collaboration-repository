@@ -24,13 +24,13 @@ An one-page site with photos of some countries.
     <p>Made with ♥ by Bianca Emi 👋 Get in touch!</p>
     <div align="start">
         <a href="https://www.linkedin.com/in/bianca-emi/" target="_blank">
-            ![image]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
         </a>   
         <a href="https://twitter.com/bemibrando" target="_blank">
-            ![image]https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+            <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
         </a>   
         <a href="mailto: bemi.brando@outlook.com">
-            ![image]https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=bemi.brando@outlook.com&logoColor=white
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=bemi.brando@outlook.com&logoColor=white">
         </a><br/>
     </div>
 </div>
